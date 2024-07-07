@@ -1,3 +1,5 @@
+Let's begin!
+
 1 cup salted butter softened
 1 cup granulated sugar
 1 cup light brown sugar packed
@@ -8,3 +10,5 @@
 1/2 teaspoon baking powder
 1 teaspoon sea salt
 2 cups chocolate chips (14 oz)
+
+Enjoy my recipe!
