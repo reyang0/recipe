@@ -10,6 +10,8 @@
 
 This **word** is bold. This <em>word</em> is italic.
 
+![Cookies!](recipe.jpg "recipe")
+
 ### This is a REMOTE change :O
 # recipe
 line 2 changed remotely
