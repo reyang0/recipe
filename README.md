@@ -8,6 +8,8 @@
   <li>Fourth item</li>
 </ol>
 
+This **word** is bold. This <em>word</em> is italic.
+
 ### This is a REMOTE change :O
 # recipe
 line 2 changed remotely
